@@ -11,7 +11,7 @@
     
     Author: Footagesus (Footages, .ftgs, oftgs)
     Github: https://github.com/Footagesus/WindUI
-    Discord: https://discord.gg/Q6HkNG4vwP
+    Discord: https://discord.gg/rDfVcSnc3e
     License: MIT
 ]]
 
